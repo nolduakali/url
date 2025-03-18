@@ -14,3 +14,27 @@ Sumber daya terbaik untuk penelitian teknologi terbaru.
 - [USPTO](https://www.uspto.gov) – Kantor Paten dan Merek Dagang AS.  
 
 🚀 **Tetap update dengan riset terbaru!**
+
+
+# ✏️ Sumber Eksploitasi & Keamanan untuk Pentester
+
+## 1. CVE dan Vulnerability Databases
+- [NVD (National Vulnerability Database)](https://nvd.nist.gov/) - Database CVE dengan analisis resmi.
+- [MITRE CVE List](https://cve.mitre.org/) - Sumber utama untuk CVE yang terdokumentasi.
+- [VulDB](https://vuldb.com/) - Database eksploit dengan rating risiko.
+
+## 2. Framework & Repos Exploit
+- [Metasploit Framework](https://www.metasploit.com/) - Framework eksploitasi yang populer.
+- [SecLists](https://github.com/danielmiessler/SecLists) - Wordlist untuk pentesting.
+- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - Kumpulan payload untuk berbagai eksploit.
+- [FuzzDB](https://github.com/fuzzdb-project/fuzzdb) - Wordlist untuk fuzzing dan pentesting.
+
+## 3. Exploit & PoC Portals
+- [0day.today](https://0day.today/) - Sumber eksploit publik dan privat (berbayar).
+- [Packet Storm Security](https://packetstormsecurity.com/) - Koleksi eksploit dan advisori.
+- [SecuriTeam](https://securiteam.com/) - Exploit, PoC, dan advisori.
+- [Bugtraq (ArsTechnica)](https://arstechnica.com/) - Mailing list dan eksploit lama.
+
+## 4. Bug Bounty & Security Reports
+- [HackerOne Reports](https://hackerone.com/hacktivity) - Laporan eksploitasi dari bug bounty.
+- [Open Bug Bounty](https://www.openbugbounty.org/) - Database bug yang ditemukan secara publik.
