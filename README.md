@@ -90,3 +90,14 @@ Berikut daftar konferensi keamanan siber terkemuka di dunia:
 - **[IoT Village](https://www.iotvillage.org/)** – Keamanan Internet of Things (IoT).  
 
 💡 **Catatan:** Cek situs resmi masing-masing untuk jadwal dan detail terbaru.
+
+
+# 🎓 Massive Open Online Courses (MOOC)
+
+Daftar situs MOOC gratis untuk belajar berbagai topik dari universitas ternama:
+
+- [MIT OpenCourseWare](https://ocw.mit.edu/) – Materi kuliah gratis dari MIT.  
+- [XuetangX](https://www.xuetangx.com/) – Kursus dari universitas top China.  
+- [Haskell MOOC](https://haskell.mooc.fi/) – Kursus Haskell dari University of Helsinki.  
+
+Belajar kapan saja, di mana saja! 🚀
