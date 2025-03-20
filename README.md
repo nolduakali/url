@@ -64,3 +64,29 @@ Kumpulan arsip tantangan Capture The Flag (CTF) untuk belajar keamanan siber.
 - [CJXOL CTF Platform](https://www.cjxol.com/)  
 
 Sumber daya ini berguna untuk latihan eksploitasi, reverse engineering, dan kriptografi.
+
+
+
+# 📌 Daftar Konferensi Keamanan Siber
+
+Berikut daftar konferensi keamanan siber terkemuka di dunia:
+
+## 🔥 Konferensi Utama
+- **[DEFCON](https://defcon.org/)** – Konferensi hacker terbesar di dunia.  
+- **[Black Hat](https://www.blackhat.com/)** – Fokus pada riset dan eksploitasi terbaru.  
+- **[CCC](https://www.ccc.de/en/)** – Konferensi hacker terbesar di Eropa.  
+- **[Ekoparty](https://ekoparty.org/)** – Konferensi keamanan siber terbesar di Amerika Latin.  
+- **[HITB](https://conference.hitb.org/)** – Konferensi global tentang keamanan dan eksploitasi.  
+- **[NorthSec](https://nsec.io/)** – Konferensi dan CTF di Kanada.  
+- **[IDSecConf](https://www.its.ac.id/news/2024/10/30/gelar-idsecconf-2024-its-kupas-bahasan-siber-security/)** – Konferensi keamanan siber di Indonesia.  
+- **[BSides](https://www.securitybsides.com/)** – Konferensi komunitas di berbagai negara.  
+- **[Troopers](https://www.troopers.de/)** – Fokus pada teknik eksploitasi dan keamanan.  
+- **[CanSecWest](https://cansecwest.com/)** – Konferensi keamanan tingkat lanjut di Kanada.  
+- **[Pwn2Own](https://www.zerodayinitiative.com/Pwn2Own/)** – Kompetisi eksploitasi zero-day.  
+- **[Recon](https://recon.cx/)** – Fokus pada reverse engineering.  
+- **[Hardwear.io](https://hardwear.io/)** – Konferensi tentang keamanan perangkat keras.  
+- **[OWASP AppSec](https://owasp.org/events/)** – Fokus pada keamanan aplikasi.  
+- **[Car Hacking Village](https://www.carhackingvillage.com/)** – Spesifik untuk keamanan kendaraan.  
+- **[IoT Village](https://www.iotvillage.org/)** – Keamanan Internet of Things (IoT).  
+
+💡 **Catatan:** Cek situs resmi masing-masing untuk jadwal dan detail terbaru.
