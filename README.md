@@ -30,10 +30,10 @@ Sumber daya terbaik untuk penelitian teknologi terbaru.
 - [FuzzDB](https://github.com/fuzzdb-project/fuzzdb) - Wordlist untuk fuzzing dan pentesting.
 
 ## 3. Exploit & PoC Portals
-- [0day.today](https://0day.today/) - Sumber eksploit publik dan privat (berbayar).
-- [Packet Storm Security](https://packetstormsecurity.com/) - Koleksi eksploit dan advisori.
-- [SecuriTeam](https://securiteam.com/) - Exploit, PoC, dan advisori.
-- [Bugtraq (ArsTechnica)](https://arstechnica.com/) - Mailing list dan eksploit lama.
+- [0day.today](https://0day.today/) - Sumber eksploit publik dan privat (berbayar).  
+- [Packet Storm Security](https://packetstormsecurity.com/) - Koleksi eksploit dan advisori.  
+- [Exploit Database](https://www.exploit-db.com/) - Database eksploit dari Offensive Security.  
+- [CXSecurity](https://cxsecurity.com/) - Arsip eksploit, advisori, dan CVE.
 
 ## 4. Bug Bounty & Security Reports
 - [HackerOne Reports](https://hackerone.com/hacktivity) - Laporan eksploitasi dari bug bounty.
