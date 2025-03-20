@@ -40,9 +40,27 @@ Sumber daya terbaik untuk penelitian teknologi terbaru.
 - [Open Bug Bounty](https://www.openbugbounty.org/) - Database bug yang ditemukan secara publik.
 
 
+
 # 💎 Sumber Daya Penting  
 
 - **[Snapshots Sourceware](https://snapshots.sourceware.org/)** – Arsip snapshot proyek Sourceware (GDB, Binutils, dll.). 
 - **[Mirrors GCC](https://gcc.gnu.org/mirrors.html)** – Daftar mirror resmi untuk GNU Compiler Collection (GCC).  
 - **[Kernel.org](https://kernel.org/)** – Sumber resmi Linux kernel.  
 - **[Ghidra Releases](https://github.com/NationalSecurityAgency/ghidra/releases)** – Alat reverse engineering open-source dari NSA.
+
+
+
+
+# 🏆 CTF Archives
+
+Kumpulan arsip tantangan Capture The Flag (CTF) untuk belajar keamanan siber.  
+
+- [pwncollege CTF Archive](https://github.com/pwncollege/ctf-archive)  
+- [sajjadium CTF Archives](https://github.com/sajjadium/ctf-archives)  
+- [CryptoHack CTF Archive](https://cryptohack.org/challenges/ctf-archive/)  
+- [r3kapig CTF Archive](https://r3kapig-not1on.notion.site/Index-docs-format-09007cb92ef649838d8057a64f0d99dc)  
+- [Archive.ooo](https://archive.ooo/)  
+- [Hello CTF by ProbiusOfficial](https://github.com/ProbiusOfficial/Hello-CTF)  
+- [CJXOL CTF Platform](https://www.cjxol.com/)  
+
+Sumber daya ini berguna untuk latihan eksploitasi, reverse engineering, dan kriptografi.
