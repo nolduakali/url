@@ -38,3 +38,11 @@ Sumber daya terbaik untuk penelitian teknologi terbaru.
 ## 4. Bug Bounty & Security Reports
 - [HackerOne Reports](https://hackerone.com/hacktivity) - Laporan eksploitasi dari bug bounty.
 - [Open Bug Bounty](https://www.openbugbounty.org/) - Database bug yang ditemukan secara publik.
+
+
+# 💎 Sumber Daya Penting  
+
+- **[Snapshots Sourceware](https://snapshots.sourceware.org/)** – Arsip snapshot proyek Sourceware (GDB, Binutils, dll.). 
+- **[Mirrors GCC](https://gcc.gnu.org/mirrors.html)** – Daftar mirror resmi untuk GNU Compiler Collection (GCC).  
+- **[Kernel.org](https://kernel.org/)** – Sumber resmi Linux kernel.  
+- **[Ghidra Releases](https://github.com/NationalSecurityAgency/ghidra/releases)** – Alat reverse engineering open-source dari NSA.
