@@ -120,7 +120,7 @@ RFC (Request for Comments) adalah dokumen standar internet yang dikelola oleh RF
 
 
 
-# Sumber Belajar Komputer Kuantum
+# 🔐 Sumber Belajar Komputer Kuantum
 
 Berikut beberapa sumber yang dapat membantu dalam mempelajari komputer kuantum:
 
