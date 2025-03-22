@@ -119,3 +119,23 @@ RFC (Request for Comments) adalah dokumen standar internet yang dikelola oleh RF
 🔗 [RFC Editor](https://www.rfc-editor.org/)
 
 
+
+# Sumber Belajar Komputer Kuantum
+
+Berikut beberapa sumber yang dapat membantu dalam mempelajari komputer kuantum:
+
+## 📺 Video
+- [Qiskit YouTube Channel](https://m.youtube.com/@qiskit/): Video tutorial dan materi tentang Qiskit serta komputasi kuantum.
+
+## ❓ Tanya Jawab & Diskusi
+- [Quantum Computing Stack Exchange](https://quantumcomputing.stackexchange.com/): Forum tanya jawab tentang komputasi kuantum.
+
+## 🛠️ Kode & Pengembangan
+- [Qiskit GitHub Issues](https://github.com/Qiskit/qiskit/issues): Laporan bug, fitur baru, dan diskusi pengembangan Qiskit.
+
+## 📖 Artikel & Materi Belajar
+- [Quantum Country](https://quantum.country/): Artikel interaktif tentang prinsip komputasi kuantum.
+
+Selamat belajar! 🚀
+
+
