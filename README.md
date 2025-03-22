@@ -101,3 +101,21 @@ Daftar situs MOOC gratis untuk belajar berbagai topik dari universitas ternama:
 - [Haskell MOOC](https://haskell.mooc.fi/) – Kursus Haskell dari University of Helsinki.  
 
 Belajar kapan saja, di mana saja! 🚀
+
+
+
+
+
+# 📘 Standard Rules
+
+## 🔹 IEEE Standards
+IEEE (Institute of Electrical and Electronics Engineers) menerbitkan standar teknis dalam bidang elektronik dan komunikasi.
+
+🔗 [IEEE Standards Association](https://standards.ieee.org/)
+
+## 🔹 RFC Editor
+RFC (Request for Comments) adalah dokumen standar internet yang dikelola oleh RFC Editor di bawah IETF.
+
+🔗 [RFC Editor](https://www.rfc-editor.org/)
+
+
